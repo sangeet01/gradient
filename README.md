@@ -41,15 +41,11 @@ Run the simulation to see the load balancing in action:
 python gradient_hash_sim.py
 ```
 
-Run the visualizer to generate the comparison charts:
+Even refined version
 ```bash
-python gradient_hash_viz.py
+python gradient_ultra.py
 ```
 
-Generate the animation (requires matplotlib/pillow):
-```bash
-python gradient_hash_animate.py
-```
 
 ##  Origin Story
 We drew inspiration from the famous **Tokyo Subway Experiment**, where a slime mold (*Physarum polycephalum*) recreated the efficient layout of the Tokyo rail network just by seeking food. We asked: *"Can we use this same 'biological flow' to route internet traffic?"*
