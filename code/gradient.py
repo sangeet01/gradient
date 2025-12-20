@@ -664,7 +664,6 @@ def main():
     print("  Plus spatial locality preservation (50-100x fewer hops)")
     print("  Plus Byzantine fault resilience (graceful degradation)")
     print("  Plus adaptive rebalancing (50ms overhead)")
-    print("\nReady for conference submission! \n")
 
 
 if __name__ == "__main__":
